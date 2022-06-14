@@ -1,0 +1,16 @@
+E:\visualstudio\OOP\LR\LR\bin\Debug\net5.0\LR.exe
+E:\visualstudio\OOP\LR\LR\bin\Debug\net5.0\LR.deps.json
+E:\visualstudio\OOP\LR\LR\bin\Debug\net5.0\LR.runtimeconfig.json
+E:\visualstudio\OOP\LR\LR\bin\Debug\net5.0\LR.runtimeconfig.dev.json
+E:\visualstudio\OOP\LR\LR\bin\Debug\net5.0\LR.dll
+E:\visualstudio\OOP\LR\LR\bin\Debug\net5.0\LR.pdb
+E:\visualstudio\OOP\LR\LR\obj\Debug\net5.0\LR.csproj.AssemblyReference.cache
+E:\visualstudio\OOP\LR\LR\obj\Debug\net5.0\LR.GeneratedMSBuildEditorConfig.editorconfig
+E:\visualstudio\OOP\LR\LR\obj\Debug\net5.0\LR.AssemblyInfoInputs.cache
+E:\visualstudio\OOP\LR\LR\obj\Debug\net5.0\LR.AssemblyInfo.cs
+E:\visualstudio\OOP\LR\LR\obj\Debug\net5.0\LR.csproj.CoreCompileInputs.cache
+E:\visualstudio\OOP\LR\LR\obj\Debug\net5.0\LR.dll
+E:\visualstudio\OOP\LR\LR\obj\Debug\net5.0\refint\LR.dll
+E:\visualstudio\OOP\LR\LR\obj\Debug\net5.0\LR.pdb
+E:\visualstudio\OOP\LR\LR\obj\Debug\net5.0\LR.genruntimeconfig.cache
+E:\visualstudio\OOP\LR\LR\obj\Debug\net5.0\ref\LR.dll
